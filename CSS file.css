@@ -1,0 +1,131 @@
+.pqr{
+    padding: 10px 20px 5px 25px;
+}
+.big{
+   width: 15cm;
+   background-color: #f4f4f4;
+   border-top: 8px solid black;
+   height:680px;
+   margin : 0 auto;
+}
+.top{
+	position: absolute;
+	right: 100px;
+	top:2px;
+}
+.abc{
+    width:17cm;
+	position: relative;
+}
+.nav1{
+   float:right;
+   padding-bottom: 25px;
+   padding-bottom: 25px;
+   padding-right: 100px;
+   margin-top:30px;
+}
+a{
+   text-decoration: none;
+   padding: 5px;
+   font-size: 10px;
+   color: #e2bd77;
+   }
+  a:hover{
+	  color:black;
+  }
+  a: active{
+	  color: green;
+  }
+  
+span {
+   color: #ffcb97;
+   font-size: 8px;
+}
+form{
+    font-size: 15px;
+}
+.oxy{
+	padding: 10px;
+}
+.xyz{
+    height: 5cm;
+    width: 14cm;
+    background-color: #f17302;
+    margin-right: 20px;
+    margin-left: 30px;
+}
+.create{
+  float: left;
+  width: 10px; 
+}
+.maindiv{
+	width: 100%;
+	float: left;
+	height: 180px;
+}
+.div1,.div2,.div3{
+    float: left;
+    width:150px; 
+    height:250px;	
+}
+.lmn{
+	float:right;
+	padding-top: 10px;
+	padding-bottom: 1px;
+    width: 200px;
+	}
+h1{
+	font-size:40px;
+	letter-spacing:3px;
+	color: #f9f5ec;
+	line-height: 30%;
+	padding-left: 20px;
+	}
+.div1,.div2{
+		margin-left: 30px;
+	}
+.div3{
+		margin-left: 30px;
+	}
+p{
+		font-size: 10px;
+		color: #c0c0c0;
+	}
+h6{
+		margin: 5px;
+	}
+span1{
+		font-size: 10px;
+		color: #888888;
+	}
+	
+.work{
+		padding: 15px 10px 50px 20px;
+	}
+.did{
+	height: 210px;
+	margin-left:20px;
+	}
+.box{
+   text-decoration: none;
+   display: inline-block;
+   float: right;
+   color: orange;
+}
+.hri{
+    display: inline-block;
+    margin: 0px;
+    padding: 0px;
+    width:150px;
+}
+.container{
+    background-color:black;
+    width: 250px;
+    height:15px;
+    color: white;
+    display: inline-block;
+    padding:3px 0px 5px 5px;
+    margin-top: 130px;
+}
+
+
